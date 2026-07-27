@@ -11,7 +11,7 @@ export default function Hero() {
         </p>
 
         <h1 className="text-5xl font-bold tracking-tight sm:text-7xl">
-          Hi, I&apos;m Manson.
+          Hi, I&apos;m Manson. Nice to meet you.
         </h1>
 
         <p className="max-w-2xl text-lg leading-8 text-zinc-300 sm:text-xl">
